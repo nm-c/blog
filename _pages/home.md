@@ -1,4 +1,4 @@
 ---
-layout: splash
+layout: posts
 permalink: /
 ---
