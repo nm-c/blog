@@ -12,10 +12,10 @@ plugins:
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
+  # - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
+  # - jekyll-include-cache
 
 include:
 - _pages
@@ -33,6 +33,7 @@ defaults:
       comments: true
       share: true
       related: true
+      compress_html: true
   # _pages
   - scope:
       path: "_pages"
@@ -40,6 +41,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      compress_html: true
+
 
 compress_html:
   clippings: all
