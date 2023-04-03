@@ -10,12 +10,14 @@ plugins:
 - jekyll-algolia
 
 whitelist:
+  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
+  - jekyll-algolia
+
 
 include:
 - _pages
