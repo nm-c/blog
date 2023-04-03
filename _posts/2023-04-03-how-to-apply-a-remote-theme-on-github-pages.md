@@ -3,7 +3,6 @@ title: How to Apply a Remote Theme on GitHub Pages
 description: Learn how to apply a remote theme on GitHub Pages to create a unique and customized website.
 ---
 
-# How to Apply a Remote Theme on GitHub Pages
 GitHub Pages is a free service for hosting static websites. With it, you can create your own blog, portfolio, or landing page using HTML, CSS, JavaScript, and other tools. There are a variety of themes available that you can choose from, or you can create your own custom theme.
 
 In this guide, we'll show you how to apply a remote theme on GitHub Pages. This means that instead of using one of the pre-built themes provided by GitHub Pages, you can use a theme hosted elsewhere on GitHub.
