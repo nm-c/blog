@@ -4,7 +4,7 @@ plugins:
 - jekyll-include-cache
 - jekyll-paginate
 - jekyll-sitemap
-# - jekyll-gist
+- jekyll-gist
 - jekyll-feed
 - jemoji
 # - jekyll-algolia
@@ -12,7 +12,7 @@ plugins:
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
-  # - jekyll-gist
+  - jekyll-gist
   - jekyll-feed
   - jemoji
   # - jekyll-include-cache
