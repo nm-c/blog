@@ -2,7 +2,7 @@
 title: "NuPhy Air60 사용자를 위한 home, end, page up/down key mapping"
 header:
   overlay_image: https://source.unsplash.com/random?NuPhy%20Air60
-tagline: "NuPhy Air60 키보드 사용자를 위한 home, end, page up 및 page down key mapping 방법을 소개하는 글입니다."
+tagline:
 description: "NuPhy Air60 키보드 사용자를 위한 home, end, page up 및 page down key mapping 방법을 소개하는 글입니다."
 tags: [NuPhy Air60, key mapping, AutoHotkey, home, end, page up, page down, 키보드]
 ---
